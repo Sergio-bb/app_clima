@@ -1,0 +1,25 @@
+{
+  "name": "app_clima",
+  "version": "1.0.0",
+  "description": "App_clima",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergio-bb/app_clima.git"
+  },
+  "author": "Sergio Bohorquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergio-bb/app_clima/issues"
+  },
+  "homepage": "https://github.com/Sergio-bb/app_clima#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0"
+  }
+}
